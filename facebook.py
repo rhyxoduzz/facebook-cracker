@@ -62,7 +62,7 @@ def search():
 		
 #welcome 
 def welcome():
-	wel = """
+	(wel) = """
 
         +=========================================+
         |..........   Facebook Crack   ...........|
